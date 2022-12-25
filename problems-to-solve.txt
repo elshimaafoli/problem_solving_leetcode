@@ -1,0 +1,117 @@
+مؤخراً في ناس كتير سألتني إزاي تطور من مستواها في الـproblem solving وتستعد للـtechnical assessments والـinterviews.
+
+في الغالب، الحاجات اللي بتتسأل سواء في الـinterviews او الـassessment بتكون traditional.
+
+عشان كده، جمعت آكتر الـtopics اللي ممكن تواجهك في interview او assessment وحطيت بعض المسائل عليها من LeetCode.
+
+Data strucutres
+
+https://lnkd.in/d8CUjbt8
+https://lnkd.in/dsyWH4w2
+https://lnkd.in/dGkMCAMr
+https://bit.ly/3yDPZzF
+https://lnkd.in/dXcEzctz
+https://bit.ly/3ettir9
+https://bit.ly/3RUHWW3
+https://lnkd.in/dPn9gJex
+https://lnkd.in/dJRa4Bya
+https://bit.ly/3Voer1A
+https://lnkd.in/dWCrXusM
+https://bit.ly/3SUpmic
+https://bit.ly/3EBWRl8
+
+Two pointers
+
+https://bit.ly/3RUHCqj
+https://bit.ly/3TfMbMZ
+https://bit.ly/3CvEKKK
+https://lnkd.in/dSZM2t6m
+https://bit.ly/3SUFos9
+https://bit.ly/3eoqDyP
+
+Linked list
+
+https://bit.ly/3fUSmHL
+https://bit.ly/3eotYxQ
+https://bit.ly/3yzoDe8
+https://lnkd.in/dNit8A3G
+https://lnkd.in/dekCgWdX
+https://lnkd.in/dh9pDSpF
+
+Binary search
+
+https://bit.ly/3SWXI44
+https://bit.ly/3eqG4GQ
+
+Recursion
+
+https://lnkd.in/dqWAjNGw
+
+Ad-hoc
+
+https://lnkd.in/dCGJyMED
+https://lnkd.in/dPpC_P5k
+https://bit.ly/3Cs3iV1
+
+Greedy
+
+https://lnkd.in/dkAaGsXu
+https://lnkd.in/dWzUmHkU
+https://lnkd.in/ddSPcSch
+https://lnkd.in/dWfngnEe
+https://bit.ly/3VnhxTx
+https://lnkd.in/dwU9EnB3
+
+Implementation
+
+https://lnkd.in/duuK67NZ
+
+Dynamic programming
+
+https://lnkd.in/d9DfyiqU
+https://lnkd.in/dP3hk8jn
+https://lnkd.in/dZDBQiBe
+https://lnkd.in/dhEgPMz3
+https://lnkd.in/dnxjMDD6
+https://bit.ly/3SOB11T
+https://lnkd.in/du_5gPVK
+
+Graph traversal
+
+https://lnkd.in/dJK_FUmw
+https://lnkd.in/dWZFXhB8
+
+Backtrack
+https://lnkd.in/dbc3YWwm
+https://lnkd.in/ddVHWCZ9
+https://lnkd.in/dqWAjNGw
+https://lnkd.in/d6Yjq38X
+
+Binary trees
+
+https://bit.ly/3g42azv
+https://lnkd.in/d6cxSCJZ
+https://bit.ly/3rNzux5
+https://bit.ly/3S0Ls0V
+https://bit.ly/3Tgyzkx
+https://bit.ly/3VxDWhk
+https://lnkd.in/dnwVESBT
+https://bit.ly/3CRAAhJ
+https://bit.ly/3SUmmlD
+
+Graph
+
+https://lnkd.in/d6KxVXrG
+
+Bit manipulation
+
+https://bit.ly/3EBgM3n
+https://bit.ly/3Cs1dsb
+https://bit.ly/3VoojIM
+https://bit.ly/3rPGn11
+
+
+
+طبعا الـcategorization علي حسب حلي للمسائل. يعني ممكن تلاقي المسألة بتتحل بأكثر من طريقة.
+
+I'll keep editing this post from time to time to make it up-to-date.
