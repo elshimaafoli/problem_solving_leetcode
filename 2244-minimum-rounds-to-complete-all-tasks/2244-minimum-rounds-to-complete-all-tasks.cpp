@@ -22,8 +22,7 @@ public:
                 nums[tasks[i]]=0;
                 continue;
             }
-            else 
-            {
+            
             tc+=freq/3;
             freq%=3;
             if(freq==1)
@@ -34,7 +33,6 @@ public:
             }
            
             count+=tc;
-            }
             nums[tasks[i]]=0;
         }
         return count;
