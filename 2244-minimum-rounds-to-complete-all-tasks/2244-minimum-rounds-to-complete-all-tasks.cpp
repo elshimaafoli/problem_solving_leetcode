@@ -15,7 +15,7 @@ public:
             if(nums[tasks[i]]==1) return -1;
             
             int freq=nums[tasks[i]],tc=0;
-            cout<<tasks[i]<<' '<<freq<<endl;
+            
             if(nums[tasks[i]]%3==0)
             {
                 count+=(nums[tasks[i]]/3);
