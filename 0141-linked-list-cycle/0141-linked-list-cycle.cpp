@@ -6,9 +6,10 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
+
+// using floyed's cycle finding
+/*
+bool hasCycle(ListNode *head) {
         ListNode *slower=head;
         ListNode *faster=head;
         while(slower&&faster&&faster->next){
@@ -16,6 +17,20 @@ public:
             faster=faster->next->next;
             if(slower==faster)
                 return true;
+        }
+        return false;
+    }
+ */
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+       unordered_set<ListNode*> hash;
+        while(head!=NULL){
+            
+            if(hash.find(head)!=hash.end())
+                return true;
+            hash.insert(head);
+            head=head->next;
         }
         return false;
     }
