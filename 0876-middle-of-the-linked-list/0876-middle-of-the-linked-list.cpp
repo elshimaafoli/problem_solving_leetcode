@@ -8,11 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    ListNode* middleNode(ListNode* head) {
-        // make head pointing to mid
-        // using two pointer :
+
+/*
+  // using two pointer :
          ListNode *faster=head;
          ListNode *slower=head;
         while(faster!=NULL&&faster->next!=NULL){
@@ -21,5 +19,22 @@ public:
         }
         return (head=slower);
         
+*/
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        // make head pointing to mid
+        int count=0;
+        ListNode* temp=head;
+        while(temp)
+        {
+            count++;
+            temp=temp->next;
+        }
+        count/=2;
+        while(count--){
+            head=head->next;
+        }
+        return head;
     }
 };
