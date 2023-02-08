@@ -21,9 +21,9 @@ bool hasCycle(ListNode *head) {
         return false;
     }
  */
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
+
+// using hash table:
+ /*bool hasCycle(ListNode *head) {
        unordered_set<ListNode*> hash;
         while(head!=NULL){
             
@@ -31,6 +31,21 @@ public:
                 return true;
             hash.insert(head);
             head=head->next;
+        }
+        return false;
+    }
+    */
+
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+        ListNode *slower=head;
+        ListNode *faster=head;
+        while(slower&&faster&&faster->next){
+            slower=slower->next;
+            faster=faster->next->next;
+            if(slower==faster)
+                return true;
         }
         return false;
     }
